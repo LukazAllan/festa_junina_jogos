@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Festa Junina: O Jogo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css')}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/tudo.css') }}">
+</head>
+<body>
+    <h1>Festa Junina: O Jogo</h1>
+
+    <h2>Sprites</h2>
+    <div id="sprites-container">
+        {% for sprite in sprites%}
+            <div class="sprite">
+                <h3>{{ sprite.name }}</h3>
+                <img class="sprite-image" src="{{ sprite.image }}" alt="{{ sprite.name }}">
+                <p>{{ sprite.description }}</p>
+            </div>
+        {% endfor %}
+    </div>
+    
+</body>
+</html>

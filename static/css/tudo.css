@@ -1,0 +1,21 @@
+#sprites-container {
+    position: relative;
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto auto
+    
+}
+.sprite {
+    margin-left: 20px;
+    width: 25vw;
+    position: relative;
+    justify-content: center;
+    align-content: center;
+}
+.sprite > img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.sprite p {
+    text-align: center;
+}

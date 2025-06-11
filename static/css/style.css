@@ -3,6 +3,10 @@
     --color2: #982829;
     --color3: #f4eaa8;
     --color4: #325862;
+    --cor1: #eca045;
+    --cor1-shade: #bd8037;
+    --cor2: #cc7422;
+    --cor2-shade: #b65b17;
 }
 * {
     margin: 0;
