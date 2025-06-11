@@ -1,0 +1,20 @@
+:root {
+    --color1: #d6993c;
+    --color2: #982829;
+    --color3: #f4eaa8;
+    --color4: #325862;
+}
+* {
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Courier New', Courier, monospace;
+    background-color: var(--color1);
+}
