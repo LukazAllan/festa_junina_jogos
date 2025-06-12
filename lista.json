@@ -1,0 +1,107 @@
+{
+    "São João": [
+        "fogueira", "quadrilha", "pau-de-sebo", "balão", "milho",
+        "canjica", "pipoca", "forró", "chapéu de palha", "fogos de artifício"
+    ],
+    "Matemática": [
+        "álgebra", "geometria", "trigonometria", "cálculo", "equação",
+        "fórmula", "número primo", "raiz quadrada", "probabilidade", "vetor"
+    ],
+    "Música": [
+        "nota musical", "partitura", "acorde", "ritmo", "melodia",
+        "harmonia", "batida", "voz", "instrumento", "concerto"
+    ],
+    "Maiores palavras da língua portuguesa": [
+        "pneumoultramicroscopicossilicovulcanoconiótico", "anticonstitucionalissimamente",
+        "oftalmotorrinolaringologista", "inconstitucionalissimamente",
+        "paraclorobenzilpirrolidinonetilbenzimidazol", "monosialotetraesosilgangliosideo",
+        "hipopotomonstrosesquipedaliofobia", "dimetilaminofenildimetilpirazolona",
+        "tetracloroetileno", "otorrinolaringologista"
+    ],
+    "Enigmas": [
+        "esfinge", "charada", "adivinha", "paradoxo", "labirinto",
+        "quebra-cabeça", "mistério", "código", "indecifrável", "lógica"
+    ],
+    "Grécia": [
+        "Acrópole", "Zeus", "Odisseia", "Sparta", "olimpíadas",
+        "filósofo", "Partenon", "Atenas", "mediterrâneo"
+    ],
+    "Literatura": [
+        "soneto", "metáfora", "epopeia", "romance", "poesia",
+        "narrador", "best-seller", "clássico", "biografia", "intertextualidade"
+    ],
+    "Química": [
+        "átomo", "molécula", "tabela periódica", "ligação covalente", "pH",
+        "titulação", "alquimia", "polímero", "eletrólise", "fermentação"
+    ],
+    "Atores famosos brasileiros": [
+        "Fernanda Montenegro", "Rodrigo Santoro", "Wagner Moura", "Alice Braga",
+        "Selton Mello", "Marília Pêra", "Matheus Nachtergaele", "Lázaro Ramos",
+        "Paulo Gustavo", "Débora Falabella"
+    ],
+    "Filmes brasileiros": [
+        "Cidade de Deus", "Central do Brasil", "Tropa de Elite", "O Auto da Compadecida",
+        "Que Horas Ela Volta?", "Lisbela e o Prisioneiro", "O Pagador de Promessas",
+        "Estômago", "Bacurau", "Hoje Eu Quero Voltar Sozinho"
+    ],
+    "Geografia": [
+        "continente", "oceano", "latitude", "longitude", "equador",
+        "trópico de Capricórnio", "cordilheira", "planície", "bioma", "estuário"
+    ],
+    "capitais do mundo": [
+        "Tóquio", "Pequim", "Nova Delhi", "Bangkok", "Jacarta",
+        "Moscou", "Istambul", "Riad", "Seul", "Cidade do México",
+        "Londres", "Paris", "Berlim", "Roma", "Madri",
+        "Lisboa", "Viena", "Amesterdã", "Bruxelas", "Estocolmo",
+        "Ottawa", "Washington", "Brasília", "Buenos Aires", "Lima",
+        "Santiago", "Bogotá", "Caracas", "Camberra", "Wellington",
+        "Pretória", "Cidade do Cabo", "Nairóbi", "Cairo", "Marrocos",
+        "Dacar", "Abuja", "Túnis", "Nova York", "Los Angeles",
+        "Toronto", "Sydney", "Dubai", "Singapura", "Hong Kong",
+        "Jerusalém", "Bagdá", "Teerã", "Cabul", "Islamabad",
+        "Havana", "Kingston", "San Juan", "Tegucigalpa", "Manágua",
+        "Asunción", "Montevidéu", "Paramaribo", "Georgetown", "Sucre"
+    ],
+    "desenhos animados": [
+        "Pica-Pau", "Tom e Jerry", "Looney Tunes", "Popeye", "Scooby-Doo",
+        "Os Flintstones", "Os Jetsons", "Corrida Maluca", "Capitão Caverna", "Thundercats",
+        "He-Man", "She-Ra", "Dragon Ball Z", "Cavaleiros do Zodíaco", "Pokémon",
+        "Digimon", "Naruto", "One Piece", "Bob Esponja", "Hora de Aventura",
+        "O Incrível Mundo de Gumball", "Steven Universo", "Gravity Falls", "Rick and Morty", "Os Simpsons",
+        "Futurama", "Avatar: A Lenda de Aang", "A Lenda de Korra", "Ben 10", "Dexter's Laboratory",
+        "As Meninas Superpoderosas", "Johnny Bravo", "O Laboratório de Dexter", "Padrinhos Mágicos", "Jimmy Neutron",
+        "Kim Possible", "Phineas e Ferb", "Apenas um Show", "Irmão do Jorel", "Turma da Mônica",
+        "Peanuts", "Snoopy", "Charlie Brown", "South Park", "Family Guy",
+        "American Dad", "Bojack Horseman", "Archer", "Avatar", "Miraculous",
+        "Star vs As Forças do Mal", "Owen", "A Casa Coruja", "Hilda", "Kipo"
+    ],
+    "Séries Netflix": [
+        "Stranger Things", "The Crown", "La Casa de Papel", "Bridgerton", "The Witcher",
+        "Dark", "Ozark", "Narcos", "The Queen's Gambit", "Squid Game",
+        "Elite", "You", "Sex Education", "Emily in Paris", "Lucifer",
+        "The Umbrella Academy", "Virgin River", "Outer Banks", "13 Reasons Why", "Money Heist",
+        "Shadow and Bone", "The Sandman", "Wednesday", "Dahmer", "Cobra Kai",
+        "The Last Kingdom", "Peaky Blinders", "The Haunting of Hill House", "Mindhunter", "Black Mirror",
+        "Russian Doll", "Dead to Me", "Never Have I Ever", "The Good Place", "Orange is the New Black",
+        "Grace and Frankie", "BoJack Horseman", "Love, Death & Robots", "Arcane", "Cyberpunk: Edgerunners",
+        "Alice in Borderland", "All of Us Are Dead", "Kingdom", "Sweet Tooth", "The Society",
+        "I Am Not Okay With This", "The End of the F***ing World", "Maniac", "Unbelievable", "When They See Us",
+        "The Irregulars", "Locke & Key", "The Order", "Warrior Nun", "Cursed",
+        "Ratched", "The Politician", "Hollywood", "Halston", "Inventing Anna"
+    ],
+    "brinquedos": [
+        "bola", "boneca", "carrinho", "lego", "quebra-cabeça",
+        "ursinho de pelúcia", "pião", "peteca", "bilboquê", "espirografo",
+        "bambolê", "skate", "patins", "triciclo", "bicicleta",
+        "boneco articulado", "jogo de tabuleiro", "dominó", "dado", "baralho",
+        "massinha", "play-doh", "slime", "frisbee", "iô-iô",
+        "pula-pula", "gangorra", "balanço", "escorregador", "castelo de areia",
+        "kit de médico", "fogãozinho", "ferramentas de brinquedo", "telefone de brinquedo", "trenzinho",
+        "avião de brinquedo", "robô", "dinossauro de plástico", "soldadinho", "super-herói",
+        "barbie", "monster high", "hot wheels", "max steel", "polly pocket",
+        "playmobil", "carrinho de controle remoto", "drone", "videogame", "nintendo switch",
+        "xbox", "playstation", "boneco funko pop", "pelúcia", "instrumento musical de brinquedo",
+        "kaleidoscópio", "pipa", "bolinha de gude", "elástico", "amarelinha",
+        "cabana", "fantoche", "marionete", "quintal", "casinha de boneca"
+    ]
+}
