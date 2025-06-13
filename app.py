@@ -1,8 +1,6 @@
 __author__ = "LukazAllan"
 __version__ = "0.1.alpha"
 
-# Só pra alterar: dkmoncdps,çdwnivo
-
 from flask import Flask, render_template, request, redirect, url_for
 from gerar_fase import *
 from os.path import isfile, join
